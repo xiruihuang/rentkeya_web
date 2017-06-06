@@ -1,4 +1,8 @@
 # rentkeya_web
-web project of Rentkeya
+The website construction project of Rentkeya
 
-NoNameAA test.
+Developers:
+  Xirui Huang
+  Site Li
+
+
